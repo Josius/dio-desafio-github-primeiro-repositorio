@@ -1,0 +1,3 @@
+Link para download do Git: https://git-scm.com/downloads
+
+Edicao do texto feito pelo nano, no bash.
