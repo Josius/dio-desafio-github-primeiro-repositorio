@@ -1,0 +1,15 @@
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\bin\Debug\net6.0\ref\Classes.dll
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\ref\Classes.dll
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache

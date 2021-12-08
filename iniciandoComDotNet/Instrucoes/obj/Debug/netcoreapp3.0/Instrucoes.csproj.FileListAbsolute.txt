@@ -1,0 +1,5 @@
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.AssemblyReference.cache
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfoInputs.cache
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.AssemblyInfo.cs
+C:\Users\josiu\Documents\DIO\dio-desafio-github-primeiro-repositorio\iniciandoComDotNet\Instrucoes\obj\Debug\netcoreapp3.0\Instrucoes.csproj.CoreCompileInputs.cache
